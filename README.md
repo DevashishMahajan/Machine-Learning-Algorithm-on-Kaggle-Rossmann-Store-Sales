@@ -1,10 +1,10 @@
-## Machine-Learning-Algorithm-on-Kaggle-Rossmann-Store-Sales
-## Machine Learning Algorithm on Kaggle Rossmann Store Sales competition dataset
+### Machine-Learning-Algorithm-on-Kaggle-Rossmann-Store-Sales
+### Machine Learning Algorithm on Kaggle Rossmann Store Sales competition dataset
 
 Rossmann Store Sales:
 Forecast sales using store, promotion, and competitor data
 
-## Dataset: https://www.kaggle.com/competitions/rossmann-store-sales/overview
+### Dataset: https://www.kaggle.com/competitions/rossmann-store-sales/overview
 
 
 ### Data Description:
